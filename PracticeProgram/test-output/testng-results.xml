@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47169" started-at="2017-07-12T06:28:54Z" finished-at="2017-07-12T06:29:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47169" started-at="2017-07-12T06:28:54Z" finished-at="2017-07-12T06:29:41Z">
+      <class name="Com.Practice.uppgm">
+        <test-method status="PASS" signature="f()[pri:0, instance:Com.Practice.uppgm@64c64813]" name="f" duration-ms="47134" started-at="2017-07-12T11:58:54Z" finished-at="2017-07-12T11:59:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Com.Practice.uppgm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
